@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All In One</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
+    <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <script>
+        const ROOM_ID = "<%= roomId %>";
+        console.log(ROOM_ID);
+    </script>
+</head>
+
+<body>
+    <div class="main">
+        <div class="main__left">
+            <div class="main__videos">
+                <div id="video-grid"></div>
+            </div>
+            <div class="main__controls">
+                <div class="main__controls_block">
+                    <div class="main__controls_button" id="muteButton" onclick="muteUnmute()">
+                        <i class="fa fa-microphone-slash"></i>
+                        <span>Mute</span>
+                    </div>
+                    <div class="main__controls_button" id="playPauseVideo" onclick="playStop()">
+                        <i class="fa fa-video-camera"></i>
+                        <span>Pause Video</span>
+                    </div>
+                </div>
+                <div class="main__controls_block">
+                    <div class="main__controls_button" id="recording">
+                        <i class="fa fa-record-vinyl" id="record-icon" style='font-size:26px'></i>
+                        <span id="record">Start Recording</span>
+                        <select id="codecPreferences" style="display: none;"></select>
+                    </div>
+                    <select id="codecPreferences" style="display: none;"></select>
+                    <div class="main__controls_button">
+                        <i class="fa fa-desktop"></i>
+                        <span id="screen">Share Screen</span>
+                    </div>
+                    <div class="main__controls_button" id="inviteButton">
+                        <i class="fa fa-user-plus"></i>
+                        <span>Invite</span>
+                    </div>
+                    <div class="main__controls_button" id="showChat">
+                        <i class="fa fa-comment"></i>
+                        <span>Chat</span>
+                    </div>
+                </div>
+
+                <div class="main__controls_block">
+                    <div class="main__controls_button leaveMeeting" id="discontinue">
+                        <i class="fa fa-sign-out-alt"></i>
+                        <span>Discontinue</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main__right">
+            <div class="chat-container">
+                <header class="chat-header">
+                    <div>
+                        <img src="/images/logo1.png" height="90px" width="250px">
+                    </div>
+                    <div class="main__controls_block">
+                        <div id="file-share" class="main__controls_button ">
+                            <a href="https://srm-file-share.herokuapp.com/" target="_blank"><i class="fa fa-file" ></i></a>
+
+                            <span>File Share</span>
+                        </div>
+                        <div class="main__controls_block">
+                            <div id="file-share" class="main__controls_button ">
+                                <a href="https://srmwhiteboard.herokuapp.com/" target="_blank"><i class='fas fa-chalkboard-teacher' ></i></a>
+    
+                                <span>Whiteboard</span>
+                            </div>
+                        <div id="join-video" class="main__controls_button ">
+                            <i class="fa fa-handshake"></i>
+                            <span id="join-video">Join Meeting</span>
+                        </div>
+                        <div class="main__controls_button" id="inviteButton_chat">
+                            <i class="fa fa-user-plus"></i>
+                            <span>Invite</span>
+                        </div>
+                        <div class="main__controls_block">
+                            <div class="main__controls_button leaveMeeting" id="leave-meeting" onclick="leave()">
+                                <i class="fa fa-sign-out-alt"></i>
+                                <span>Leave Meeting</span>
+                            </div>
+                        </div>
+                </header>
+                <main class="chat-main">
+                    <div class="chat-sidebar">
+                        <h3><i class="fas fa-users"></i> Team Members</h3>
+                        <div id="users"></div>
+                    </div>
+                    <div class="main__chat__window" id="main__chat__window">
+                        <div class="messages" id="all_messages">
+                        </div>
+                        <div class="main__message_container">
+                            <input type="text" id="chat_message" placeholder="Type message here.." />
+                            <div id="send" class="main__controls_button send">
+                                <i class="fa fa-paper-plane"></i>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+                </div>
+            </div>
+            <script src="script.js"></script>
+</body>
+
+</html>

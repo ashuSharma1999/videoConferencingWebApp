@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: #101820FF;
+    margin: 0px;
+    padding: 0px;
+}
+.icons {
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    margin-bottom: 30%;
+    border-radius: 100%;
+}
+#color {
+    overflow: hidden;
+}
+.color-icons {
+    height: 32px;
+    width: 32px;
+}
+.raised { 
+    -webkit-box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.4);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px rgba(0, 0, 0, 0.4);  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px rgba(0, 0, 0, 0.4);
+}
+#toolbar {
+    /* padding-top: 14%; */
+    align-items: center;
+    align-self: center;
+    min-width: 60px;
+    width: 5%;
+    background-color: black;
+    /* background-color: wheat; */
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    z-index: 1000;
+}
+.wrapper {
+    display: flex;
+}
+
+canvas {
+    border : 3px black thick;
+    z-index: 1;
+}

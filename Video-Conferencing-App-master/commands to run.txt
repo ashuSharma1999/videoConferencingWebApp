@@ -1,0 +1,1000 @@
+  994  mysql
+  995  sudo mysql 
+  996  sudo snap install barrier
+  997  barrier
+  998  sudo snap remove barrier
+  999  ping 192.168.1.76
+ 1000  reboot
+ 1001  cd /home/tarun/Desktop/UTILITY/etc_etc/ds_code
+ 1002  ls
+ 1003  code tree.cpp 
+ 1004  code tree_esha.cpp 
+ 1005  ls tree*
+ 1006  code tree_abdul.cpp 
+ 1007  g++ tree_abdul.cpp 
+ 1008  ./a.out 
+ 1009  clear
+ 1010  ls link*
+ 1011  code link_list.cpp 
+ 1012  code 24_07_21_tree.cpp
+ 1013  sl
+ 1014  ls
+ 1015  g++ 24_07_21_tree.cpp 
+ 1016  ./a.out 
+ 1017  g++ 24_07_21_tree.cpp 
+ 1018  ./a.out 
+ 1019  g++ 24_07_21_tree.cpp 
+ 1020  ./a.out 
+ 1021  g++ 24_07_21_tree.cpp 
+ 1022  ./a.out 
+ 1023  g++ 24_07_21_tree.cpp 
+ 1024  ./a.out 
+ 1025  g++ 24_07_21_tree.cpp 
+ 1026  ./a.out 
+ 1027  g++ 24_07_21_tree.cpp 
+ 1028  ./a.out 
+ 1029  g++ 24_07_21_tree.cpp 
+ 1030  ./a.out 
+ 1031  g++ 24_07_21_tree.cpp 
+ 1032  ./a.out 
+ 1033  g++ 24_07_21_tree.cpp 
+ 1034  ./a.out 
+ 1035  g++ 24_07_21_tree.cpp 
+ 1036  ./a.out 
+ 1037  g++ 24_07_21_tree.cpp 
+ 1038  ./a.out 
+ 1039  g++ 24_07_21_tree.cpp 
+ 1040  ./a.out 
+ 1041  g++ 24_07_21_tree.cpp 
+ 1042  ./a.out 
+ 1043  g++ 24_07_21_tree.cpp 
+ 1044  ./a.out 
+ 1045  g++ 24_07_21_tree.cpp 
+ 1046  ./a.out 
+ 1047  g++ 24_07_21_tree.cpp 
+ 1048  ./a.out 
+ 1049  g++ 24_07_21_tree.cpp 
+ 1050  ./a.out 
+ 1051  g++ 24_07_21_tree.cpp 
+ 1052  ./a.out 
+ 1053  code inorder_preorder_to_tree.cpp
+ 1054  g++ inorder_preorder_to_tree.cpp 
+ 1055  ./a.out 
+ 1056  g++ inorder_preorder_to_tree.cpp 
+ 1057  ls *.pdf
+ 1058  ls tree*
+ 1059  cd ~
+ 1060  ls -r  tree*
+ 1061  ls -r  *.pdf
+ 1062  ls -r  "*.pdf"
+ 1063  cd Desktop/UTILITY/etc_etc/ds_code/
+ 1064  g++ 24_07_21_tree.cpp 
+ 1065  ./a.out 
+ 1066  g++ 24_07_21_tree.cpp 
+ 1067  ./a.out 
+ 1068  g++ 24_07_21_tree.cpp 
+ 1069  ./a.out 
+ 1070  g++ 24_07_21_tree.cpp 
+ 1071  ./a.out 
+ 1072  g++ 24_07_21_tree.cpp 
+ 1073  ./a.out 
+ 1074  g++ inorder_preorder_to_tree.cpp 
+ 1075  ./a.out 
+ 1076  g++ 24_07_21_tree.cpp 
+ 1077  ./a.out 
+ 1078  g++ 24_07_21_tree.cpp 
+ 1079  ./a.out 
+ 1080  g++ 24_07_21_tree.cpp 
+ 1081  ./a.out 
+ 1082  g++ inorder_preorder_to_tree.cpp 
+ 1083  ./a.out 
+ 1084  g++ inorder_preorder_to_tree.cpp 
+ 1085  g++ 24_07_21_tree.cpp 
+ 1086  ./a.out 
+ 1087  code vishal.cpp
+ 1088  g++ vishal.cpp 
+ 1089  ./a.out 
+ 1090  g++ vishal.cpp 
+ 1091  ./a.out 
+ 1092  g++ vishal.cpp 
+ 1093  ./a.out 
+ 1094  g++ vishal.cpp 
+ 1095  ./a.out 
+ 1096  g++ vishal.cpp 
+ 1097  ./a.out 
+ 1098  g++ vishal.cpp 
+ 1099  ./a.out 
+ 1100  g++ vishal.cpp 
+ 1101  ./a.out 
+ 1102  g++ vishal.cpp 
+ 1103  ./a.out 
+ 1104  g++ vishal.cpp 
+ 1105  ./a.out 
+ 1106  rm vishal.cpp 
+ 1107  clear
+ 1108  ld
+ 1109  ls
+ 1110  ls l*
+ 1111  clear
+ 1112  g++ 24_07_21_tree.cpp 
+ 1113  ./a.out 
+ 1114  g++ 24_07_21_tree.cpp 
+ 1115  ./a.out 
+ 1116  g++ 24_07_21_tree.cpp 
+ 1117  ./a.out 
+ 1118  ping 172.23.18.47
+ 1119  remote connect
+ 1120  sudo apt install remote
+ 1121  xrdp --version
+ 1122  sudo apt install xrdp
+ 1123  enable --now xrdp
+ 1124  sudo systenctl enable --now xrdp
+ 1125  sudo systemctl enable --now xrdp
+ 1126  sudo ufw allow from any to any port 3389 proto tcp
+ 1127  ip
+ 1128  sudo ufw allow from any to any port 3389 proto tcp
+ 1129  sudo ufw allow 1714:1764/udp
+ 1130  sudo ufw allow 1714:1764/tcp
+ 1131  sudo ufw reload
+ 1132  adb usb
+ 1133  adb shell ls sdcard/Movies/
+ 1134  adb pull sdcard/Movies/"The.Irishman.2019.1080p.NF.WEBRip.2000MB.DD5.1.x264-GalaxyRG[TGx]
+ 1135  "
+ 1136  adb pull sdcard/Movies/"The.Irishman.2019.1080p.NF.WEBRip.2000MB.DD5.1.x264-GalaxyRG[TGx]"
+ 1137  adb pull sdcard/Movies/"Zindagi Na Milegi Dobara 2011 Hindi 1080p Blu-Ray x264 DD 5.1 ESub-Masti"
+ 1138  code tes.cpp
+ 1139  g++ tes.cpp 
+ 1140  ./a.out 
+ 1141  g++ tes.cpp 
+ 1142  ./a.out 
+ 1143  g++ tes.cpp 
+ 1144  ./a.out 
+ 1145  g++ tes.cpp 
+ 1146  ./a.out 
+ 1147  g++ tes.cpp 
+ 1148  ./a.out 
+ 1149  g++ tes.cpp 
+ 1150  ./a.out 
+ 1151  g++ tes.cpp 
+ 1152  ./a.out 
+ 1153  g++ tes.cpp 
+ 1154  ./a.out 
+ 1155  g++ tes.cpp 
+ 1156  ./a.out 
+ 1157  g++ tes.cpp 
+ 1158  ./a.out 
+ 1159  g++ tes.cpp 
+ 1160  ./a.out 
+ 1161  g++ tes.cpp 
+ 1162  ./a.out 
+ 1163  g++ tes.cpp 
+ 1164  ./a.out 
+ 1165  g++ tes.cpp 
+ 1166  ./a.out 
+ 1167  g++ tes.cpp 
+ 1168  ./a.out 
+ 1169  g++ tes.cpp 
+ 1170  ./a.out 
+ 1171  g++ tes.cpp 
+ 1172  ./a.out 
+ 1173  g++ tes.cpp 
+ 1174  ./a.out 
+ 1175  g++ tes.cpp 
+ 1176  ./a.out 
+ 1177  g++ tes.cpp 
+ 1178  ./a.out 
+ 1179  g++ tes.cpp 
+ 1180  ./a.out 
+ 1181  g++ tes.cpp 
+ 1182  ./a.out 
+ 1183  g++ tes.cpp 
+ 1184  ./a.out 
+ 1185  g++ tes.cpp 
+ 1186  ./a.out 
+ 1187  g++ tes.cpp 
+ 1188  ./a.out 
+ 1189  g++ tes.cpp 
+ 1190  ./a.out 
+ 1191  g++ tes.cpp 
+ 1192  ./a.out 
+ 1193  g++ tes.cpp 
+ 1194  ./a.out 
+ 1195  g++ tes.cpp 
+ 1196  ./a.out 
+ 1197  code rotation.cpp
+ 1198  g++ rotation.cpp
+ 1199  ./a.out 
+ 1200  g++ rotation.cpp
+ 1201  ./a.out 
+ 1202  g++ rotation.cpp
+ 1203  ./a.out 
+ 1204  g++ rotation.cpp
+ 1205  ./a.out 
+ 1206  g++ rotation.cpp
+ 1207  ./a.out 
+ 1208  g++ rotation.cpp
+ 1209  ./a.out 
+ 1210  g++ rotation.cpp
+ 1211  ./a.out 
+ 1212  g++ rotation.cpp
+ 1213  ./a.out 
+ 1214  g++ tes.cpp 
+ 1215  ./a.out 
+ 1216  g++ tes.cpp 
+ 1217  ./a.out 
+ 1218  g++ tes.cpp 
+ 1219  ./a.out 
+ 1220  g++ tes.cpp 
+ 1221  ./a.out 
+ 1222  g++ tes.cpp 
+ 1223  ./a.out 
+ 1224  g++ tes.cpp 
+ 1225  ./a.out 
+ 1226  g++ tes.cpp 
+ 1227  ./a.out 
+ 1228  g++ tes.cpp 
+ 1229  ./a.out 
+ 1230  g++ rotation.cpp 
+ 1231  ./a.out 
+ 1232  g++ rotation.cpp 
+ 1233  ./a.out 
+ 1234  g++ rotation.cpp 
+ 1235  ./a.out 
+ 1236  code vishal.cpp
+ 1237  g++ vishal.cpp
+ 1238  ./a.out 
+ 1239  g++ vishal.cpp
+ 1240  ./a.out 
+ 1241  g++ vishal.cpp
+ 1242  ./a.out 
+ 1243  g++ vishal.cpp
+ 1244  ./a.out 
+ 1245  g++ vishal.cpp
+ 1246  ./a.out 
+ 1247  rm vishal.cpp 
+ 1248  ls
+ 1249  cd ~
+ 1250  cd /home/tarun/Desktop/UTILITY/etc_etc/ds_code
+ 1251  code max_border.cpp
+ 1252  g++ max_border.cpp
+ 1253  ./a.out 
+ 1254  g++ max_border.cpp
+ 1255  ./a.out 
+ 1256  g++ max_border.cpp
+ 1257  ./a.out 
+ 1258  g++ max_border.cpp
+ 1259  ./a.out 
+ 1260  g++ max_border.cpp
+ 1261  ./a.out 
+ 1262  code universe.cpp
+ 1263  g++ universe.cpp 
+ 1264  12
+ 1265  ./a.out 
+ 1266  g++ universe.cpp 
+ 1267  ./a.out 
+ 1268  g++ universe.cpp 
+ 1269  ./a.out 
+ 1270  g++ universe.cpp 
+ 1271  ./a.out 
+ 1272  g++ universe.cpp 
+ 1273  ./a.out 
+ 1274  g++ universe.cpp 
+ 1275  ./a.out 
+ 1276  code sort_0_1_2.cpp
+ 1277  cd /home/tarun/Desktop/UTILITY/etc_etc
+ 1278  ls
+ 1279  ls *.cpp
+ 1280  code exp.cpp 
+ 1281  rm swap.cpp 
+ 1282  g++ sort_0_1_2.cpp 
+ 1283  ./a.out 
+ 1284  g++ sort_0_1_2.cpp 
+ 1285  ./a.out 
+ 1286  g++ sort_0_1_2.cpp 
+ 1287  ./a.out 
+ 1288  g++ sort_0_1_2.cpp 
+ 1289  ./a.out 
+ 1290  g++ reverse_int.cpp
+ 1291  code reverse_int.cpp
+ 1292  g++ reverse_int.cpp 
+ 1293  ./a.out 
+ 1294  g++ reverse_int.cpp 
+ 1295  ./a.out 
+ 1296  g++ reverse_int.cpp 
+ 1297  ./a.out 
+ 1298  code yo.cpp
+ 1299  g++ yo.cpp 
+ 1300  ./a.out 
+ 1301  g++ yo.cpp 
+ 1302  ./a.out 
+ 1303  g++ yo.cpp 
+ 1304  ./a.out 
+ 1305  g++ yo.cpp 
+ 1306  ./a.out 
+ 1307  g++ yo.cpp 
+ 1308  ./a.out 
+ 1309  g++ yo.cpp 
+ 1310  ./a.out 
+ 1311  g++ yo.cpp 
+ 1312  ./a.out 
+ 1313  g++ yo.cpp 
+ 1314  ./a.out 
+ 1315  g++ yo.cpp 
+ 1316  ./a.out 
+ 1317  g++ yo.cpp 
+ 1318  ./a.out 
+ 1319  g++ yo.cpp 
+ 1320  ./a.out 
+ 1321  g++ yo.cpp 
+ 1322  ./a.out 
+ 1323  g++ yo.cpp 
+ 1324  ./a.out 
+ 1325  g++ yo.cpp 
+ 1326  ./a.out 
+ 1327  g++ yo.cpp 
+ 1328  ./a.out 
+ 1329  g++ yo.cpp 
+ 1330  ./a.out 
+ 1331  g++ yo.cpp
+ 1332  ./a.out 
+ 1333  g++ yo.cpp 
+ 1334  ./a.out 
+ 1335  g++ yo.cpp 
+ 1336  ./a.out 
+ 1337  g++ yo.cpp 
+ 1338  ./a.out 
+ 1339  g++ reverse_int.cpp 
+ 1340  clear
+ 1341  ./a.out 
+ 1342  g++ reverse_int.cpp 
+ 1343  ./a.out 
+ 1344  clear
+ 1345  g++ yo.cpp 
+ 1346  ./a.out 
+ 1347  g++ yo.cpp 
+ 1348  ./a.out 
+ 1349  ls *.cpp
+ 1350  ls -r *.cpp
+ 1351  ls -rf *.cpp
+ 1352  ls -rf
+ 1353  ls
+ 1354  ls -l
+ 1355  man ls
+ 1356  ls -b
+ 1357  man ls
+ 1358  ls -1
+ 1359  ls -rf1
+ 1360  ls -rfb
+ 1361  ls -rfb1
+ 1362  ls
+ 1363  ls -f
+ 1364  ls -r
+ 1365  man 
+ 1366  man man
+ 1367  tree *.cpp
+ 1368  tree "*.cpp"
+ 1369  man tree
+ 1370  tree -p *.cpp
+ 1371  tree -d
+ 1372  clear
+ 1373  top
+ 1374  whatsdesk
+ 1375  sudo apt purge whatsdesk
+ 1376  sudo snap remove whatsdesk
+ 1377  sudo snap install whatsapp-for-linux
+ 1378  whatsapp-for-linux
+ 1379  sudo snap remove whatsapp-for-linux
+ 1380  sudo snap install whatsdesk
+ 1381  whatsdesk
+ 1382  adb usb
+ 1383  scrcpy
+ 1384  adb usb
+ 1385  scrcpy
+ 1386  adb usb
+ 1387  scrcpy
+ 1388  adb usb
+ 1389  adb tcpip 5555
+ 1390  adb connect 192.168.1.71
+ 1391  scrcpy
+ 1392  adb connect 299062
+ 1393  adb devices
+ 1394  adb disconnect
+ 1395  adb connect 254062
+ 1396  adb connect 192.168.1.71.46319
+ 1397  adb connect 192.168.1.71
+ 1398  exit
+ 1399  adb usb
+ 1400  scrcpy
+ 1401  cd Downloads/
+ 1402  echo Books in the Little Book Big Profits series include:
+ 1403  The Little Book That Still Beats the Market by Joel Greenblatt
+ 1404  The Little Book of Value Investing by Christopher Browne
+ 1405  The Little Book of Common Sense Investing by John C. Bogle
+ 1406  The Little Book That Makes You Rich by Louis Navellier
+ 1407  The Little Book That Builds Wealth by Pat Dorsey
+ 1408  The Little Book That Saves Your Assets by David M. Darst
+ 1409  The Little Book of Bull Moves in Bear Markets by Peter D. Schiff
+ 1410  The Little Book of Main Street Money by Jonathan Clements
+ 1411  The Little Book of Safe Money by Jason Zweig
+ 1412  The Little Book of Behavioral Investing by James Montier
+ 1413  The Little Book of Big Dividends by Charles B. Carlson
+ 1414  The Little Book of Bulletproof Investing by Ben Stein and Phil DeMuth
+ 1415  The Little Book of Commodity Investing by John R. Stephenson
+ 1416  The Little Book of Economics by Greg Ip
+ 1417  The Little Book of Sideways Markets by Vitaliy N. Katsenelson
+ 1418  The Little Book of Currency Trading by Kathy Lien
+ 1419  The Little Book of Alternative Investments by Ben Stein and Phil DeMuth
+ 1420  cd /home/tarun/Desktop/UTILITY/etc_etc
+ 1421  g++ exp.cpp 
+ 1422  ./a.out 
+ 1423  g++ exp.cpp 
+ 1424  ./a.out 
+ 1425  g++ exp.cpp 
+ 1426  ./a.out 
+ 1427  code sum_palindrome.cpp
+ 1428  g++ sum_palindrome.cpp 
+ 1429  ./a.out 
+ 1430  g++ sum_palindrome.cpp 
+ 1431  ./a.out 
+ 1432  g++ sum_palindrome.cpp 
+ 1433  ./a.out 
+ 1434  g++ sum_palindrome.cpp 
+ 1435  ./a.out 
+ 1436  code rev_str.cpp
+ 1437  g++ rev_str.cpp
+ 1438  ./a.
+ 1439  ./a.out 
+ 1440  g++ rev_str.cpp
+ 1441  ./a.out 
+ 1442  code array_to_reduced_form.cpp
+ 1443  g++ array_to_reduced_form.cpp
+ 1444  ./a.out 
+ 1445  g++ array_to_reduced_form.cpp
+ 1446  ./a.out 
+ 1447  g++ array_to_reduced_form.cpp
+ 1448  ./a.out 
+ 1449  g++ array_to_reduced_form.cpp
+ 1450  ./a.out 
+ 1451  g++ array_to_reduced_form.cpp
+ 1452  ./a.out 
+ 1453  code unordered_map.cpp
+ 1454  g++ unordered_map.cpp 
+ 1455  clear
+ 1456  ./a.out 
+ 1457  g++ unordered_map.cpp 
+ 1458  ./a.out 
+ 1459  code unordered_set.cpp
+ 1460  g++ unordered_set.cpp 
+ 1461  ./a.out 
+ 1462  g++ unordered_set.cpp 
+ 1463  ./a.out 
+ 1464  g++ unordered_set.cpp 
+ 1465  ./a.out 
+ 1466  g++ unordered_set.cpp 
+ 1467  ./a.out 
+ 1468  g++ unordered_set.cpp 
+ 1469  clear
+ 1470  code map.cpp
+ 1471  g++ map.cpp 
+ 1472  ./a.out 
+ 1473  g++ map.cpp 
+ 1474  ./a.out 
+ 1475  g++ unordered_map.cpp 
+ 1476  ./a.out 
+ 1477  g++ unordered_map.cpp 
+ 1478  ./a.out 
+ 1479  g++ unordered_map.cpp 
+ 1480  ./a.out 
+ 1481  g++ unordered_map.cpp 
+ 1482  ./a.out 
+ 1483  g++ unordered_map.cpp 
+ 1484  ./a.out 
+ 1485  g++ unordered_map.cpp 
+ 1486  ./a.out 
+ 1487  g++ unordered_map.cpp 
+ 1488  ./a.out 
+ 1489  g++ unordered_map.cpp 
+ 1490  ./a.out 
+ 1491  g++ unordered_map.cpp 
+ 1492  ./a.out 
+ 1493  g++ unordered_map.cpp 
+ 1494  ./a.out 
+ 1495  g++ unordered_map.cpp 
+ 1496  ./a.out 
+ 1497  g++ unordered_map.cpp 
+ 1498  ./a.out 
+ 1499  g++ unordered_map.cpp 
+ 1500  ./a.out 
+ 1501  g++ unordered_map.cpp 
+ 1502  ./a.out 
+ 1503  g++ unordered_map.cpp 
+ 1504  ./a.out 
+ 1505  g++ unordered_map.cpp 
+ 1506  ./a.out 
+ 1507  g++ unordered_map.cpp 
+ 1508  ./a.out 
+ 1509  g++ unordered_map.cpp 
+ 1510  ./a.out 
+ 1511  code search.cpp
+ 1512  g++ search.cpp 
+ 1513  ./a.out 
+ 1514  g++ search.cpp 
+ 1515  ./a.out 
+ 1516  g++ search.cpp 
+ 1517  ./a.out 
+ 1518  g++ search.cpp 
+ 1519  ./a.out 
+ 1520  g++ search.cpp 
+ 1521  ./a.out 
+ 1522  g++ search.cpp 
+ 1523  ./a.out 
+ 1524  adb connect 192.168.1.71
+ 1525  adb connect 192.168.1.72
+ 1526  adb connect 192.168.1.71
+ 1527  adb connect 192.168.1.71:39595
+ 1528  scrcpy
+ 1529  adb devices
+ 1530  adb shell
+ 1531  adb connect 192.168.1.71
+ 1532  adb connect 192.168.1.71:39595
+ 1533  adb devices
+ 1534  adb connect 192.168.1.71:39595
+ 1535  adb shell ls
+ 1536  adb devices
+ 1537  adb connect 192.168.1.71:39595
+ 1538  adb connect 192.168.1.71:39617
+ 1539  adb devices
+ 1540  adb shell ls
+ 1541  adb tcpip 5555
+ 1542  adb devices
+ 1543  adb connect 192.168.1.71:39617
+ 1544  adb devices
+ 1545  adb shell ls
+ 1546  adb connect 172693
+ 1547  adb connect 192.168.1.71:39617
+ 1548  adb devices
+ 1549  adb connect 192.168.1.71:39617
+ 1550  adb connect 192.168.1.71:41749
+ 1551  adb devices
+ 1552  android update adb
+ 1553  adb connect 192.168.1.71:41749
+ 1554  adb connect 192.168.1.71:41787
+ 1555  adb devices
+ 1556  adb disconnect 192.168.1.71:41787
+ 1557  adb kill-server
+ 1558  adb start-server
+ 1559  adb disconnect 192.168.1.71:41787
+ 1560  adb connect 
+ 1561  adb devices
+ 1562  adb disconnect 192.168.1.71:32839
+ 1563  adb connect 192.168.1.71:32839
+ 1564  adb devices
+ 1565  adb tcpip 5555
+ 1566  adb connect 192.168.1.71
+ 1567  sudo apt-get install compizconfi
+ 1568  cd /
+ 1569  ls
+ 1570  cd ~
+ 1571  ls
+ 1572  find -r "*.py"
+ 1573  find "*.py"
+ 1574  adb usb
+ 1575  scrcpy
+ 1576  adb usb
+ 1577  adb tcpip 5555
+ 1578  adb connect 192.168.1.71
+ 1579  scrcpy
+ 1580  adb connect 192.168.1.71
+ 1581  scrcpy
+ 1582  adb connect 192.168.1.71
+ 1583  scrcpy
+ 1584  adb connect 192.168.1.71
+ 1585  scrcpy
+ 1586  adb usb
+ 1587  scrcpy
+ 1588  reboot
+ 1589  cd /home/tarun/Desktop/UTILITY/login2xplore
+ 1590  g++ tes.cpp 
+ 1591  ./a.out 
+ 1592  g++ tes.cpp 
+ 1593  ./a.out 
+ 1594  cd ~
+ 1595  ls -rf "*.py"
+ 1596  code yo.c
+ 1597  gcc yo.c 
+ 1598  ./a.out 
+ 1599  gcc yo.c 
+ 1600  ./a.out 
+ 1601  gcc yo.c 
+ 1602  ./a.out 
+ 1603  gcc yo.c 
+ 1604  ./a.out 
+ 1605  code yo.html
+ 1606  code pm_mp.cpp
+ 1607  ls
+ 1608  g++ pm_mp.cpp 
+ 1609  clear
+ 1610  g++ pm_mp.cpp 
+ 1611  clear
+ 1612  g++ pm_mp.cpp 
+ 1613  clear
+ 1614  g++ pm_mp.cpp 
+ 1615  clear
+ 1616  g++ pm_mp.cpp 
+ 1617  clear
+ 1618  g++ pm_mp.cpp 
+ 1619  clear
+ 1620  g++ pm_mp.cpp 
+ 1621  clear
+ 1622  g++ pm_mp.cpp 
+ 1623  clear
+ 1624  g++ pm_mp.cpp 
+ 1625  clear
+ 1626  g++ pm_mp.cpp 
+ 1627  clear
+ 1628  g++ pm_mp.cpp 
+ 1629  code inherit.cpp
+ 1630  g++ inherit.cpp
+ 1631  g++ pm_mp.cpp 
+ 1632  clear
+ 1633  g++ pm_mp.cpp 
+ 1634  clear
+ 1635  g++ pm_mp.cpp 
+ 1636  clear
+ 1637  g++ pm_mp.cpp 
+ 1638  clear
+ 1639  g++ pm_mp.cpp 
+ 1640  clear
+ 1641  g++ pm_mp.cpp 
+ 1642  clear
+ 1643  g++ pm_mp.cpp 
+ 1644  clear
+ 1645  g++ pm_mp.cpp 
+ 1646  clear
+ 1647  g++ pm_mp.cpp 
+ 1648  ./a.out 
+ 1649  g++ pm_mp.cpp 
+ 1650  ./a.out 
+ 1651  clear
+ 1652  g++ pm_mp.cpp 
+ 1653  clear
+ 1654  g++ pm_mp.cpp 
+ 1655  clear
+ 1656  g++ pm_mp.cpp 
+ 1657  clear
+ 1658  g++ pm_mp.cpp 
+ 1659  clear
+ 1660  g++ pm_mp.cpp 
+ 1661  ./a.out 
+ 1662  g++ pm_mp.cpp 
+ 1663  ./a.out 
+ 1664  g++ pm_mp.cpp 
+ 1665  ./a.out 
+ 1666  g++ pm_mp.cpp 
+ 1667  clear
+ 1668  g++ pm_mp.cpp 
+ 1669  clear
+ 1670  ./a.out 
+ 1671  clear
+ 1672  ./a.out 
+ 1673  clear
+ 1674  g++ pm_mp.cpp 
+ 1675  ./a.out 
+ 1676  g++ pm_mp.cpp 
+ 1677  clear
+ 1678  g++ pm_mp.cpp 
+ 1679  clear
+ 1680  g++ pm_mp.cpp 
+ 1681  clear
+ 1682  g++ pm_mp.cpp 
+ 1683  clear
+ 1684  ./a.out 
+ 1685  clear
+ 1686  g++ pm_mp.cpp 
+ 1687  ./a.out 
+ 1688  g++ pm_mp.cpp 
+ 1689  ./a.out 
+ 1690  g++ pm_mp.cpp 
+ 1691  ./a.out 
+ 1692  g++ pm_mp.cpp 
+ 1693  ./a.out 
+ 1694  g++ pm_mp.cpp 
+ 1695  ./a.out 
+ 1696  g++ pm_mp.cpp 
+ 1697  ./a.out 
+ 1698  g++ pm_mp.cpp 
+ 1699  ./a.out 
+ 1700  g++ pm_mp.cpp 
+ 1701  ./a.out 
+ 1702  g++ pm_mp.cpp 
+ 1703  ./a.out 
+ 1704  g++ pm_mp.cpp 
+ 1705  ./a.out 
+ 1706  g++ pm_mp.cpp 
+ 1707  ./a.out 
+ 1708  g++ pm_mp.cpp 
+ 1709  ./a.out 
+ 1710  g++ pm_mp.cpp 
+ 1711  ./a.out 
+ 1712  g++ pm_mp.cpp 
+ 1713  ./a.out 
+ 1714  clear
+ 1715  code test.cpp
+ 1716  g++ test.cpp 
+ 1717  code test.cpp
+ 1718  g++ test.cpp 
+ 1719  g++ pm_mp.cpp 
+ 1720  ./a.out 
+ 1721  g++ test.cpp 
+ 1722  clear
+ 1723  ./a.out 
+ 1724  code  commisioner.cpp 
+ 1725  clear
+ 1726  g++ test.cpp 
+ 1727  clear
+ 1728  g++ commisioner.cpp 
+ 1729  ./a.out 
+ 1730  clear
+ 1731  g++ commisioner.cpp 
+ 1732  ./a.out 
+ 1733  code pm_mp.cpp 
+ 1734  code commisioner.cpp 
+ 1735  g++ commisioner.cpp 
+ 1736  clear
+ 1737  ./a.out 
+ 1738  code sort.cpp
+ 1739  g++ sort.cpp 
+ 1740  code sort.cpp
+ 1741  g++ sort.cpp 
+ 1742  clear
+ 1743  g++ sort.cpp 
+ 1744  ./a.out 
+ 1745  g++ sort.cpp 
+ 1746  ./a.out 
+ 1747  g++ sort.cpp 
+ 1748  ./a.out 
+ 1749  g++ sort.cpp 
+ 1750  ./a.out 
+ 1751  g++ sort.cpp 
+ 1752  ./a.out 
+ 1753  g++ sort.cpp 
+ 1754  ./a.out 
+ 1755  g++ sort.cpp 
+ 1756  ./a.out 
+ 1757  g++ sort.cpp 
+ 1758  ./a.out 
+ 1759  g++ sort.cpp 
+ 1760  ./a.out 
+ 1761  code new.cpp
+ 1762  g++ commisioner.cpp 
+ 1763  clear
+ 1764  cd Desktop/UTILITY/tcs/
+ 1765  reboot
+ 1766  code matrix_mul.cpp
+ 1767  shutdown now
+ 1768  reboot
+ 1769  sudo apt install ibus-m17n
+ 1770  ibus-daemon
+ 1771  sudo ufw allow 1714:1764/udp
+ 1772  sudo ufw allow 1714:1764/tcp
+ 1773  ufw reload
+ 1774  sudo ufw reload
+ 1775  ls
+ 1776  curl -L https://hide.me/download/linux-amd64 | tar -xJ && sudo ./install.sh
+ 1777  sudo ./uninstall.sh
+ 1778  uptime -p
+ 1779  2606:4700:4700::1111
+ 1780  sudo apt install cloudflare-warp
+ 1781  warp-cli register
+ 1782  warp-cli connect
+ 1783  curl https://www.cloudflare.com/cdn-cgi/trace/
+ 1784  warp-cli enable-always-on
+ 1785  warp-cli enable-always-off
+ 1786  warp-cli enable-always --help
+ 1787  warp-cli --enable-always
+ 1788  warp-cli --help
+ 1789  warp-cli warp-stats 
+ 1790  warp-cli network
+ 1791  cloudflare-warp
+ 1792  warp-cli --help
+ 1793  warp-cli disconnect
+ 1794  warp-cli connect
+ 1795  warp-cli disconnect
+ 1796  warp-cli connect
+ 1797  warp-cli disconnect
+ 1798  warp-cli connect
+ 1799  warp-cli disconnect
+ 1800  warp-cli connect
+ 1801  warp-cli disconnect
+ 1802  ls
+ 1803  cd Desktop/
+ 1804  ls
+ 1805  cd UTILITY/
+ 1806  ls
+ 1807  code my_resume_web.html
+ 1808  code tarun.css
+ 1809  warp-cli connect
+ 1810  ls
+ 1811  code tarun.html
+ 1812  warp-cli connect
+ 1813  cd Desktop/UTILITY/
+ 1814  ls
+ 1815  cd web/
+ 1816  ls
+ 1817  code 11018210058_input.js
+ 1818  uptime -p
+ 1819  reboot
+ 1820  echo yo
+ 1821  sql
+ 1822  mysql
+ 1823  sudo
+ 1824  sudo mysql
+ 1825  code 11018210058.html
+ 1826  mv Desktop/UTILITY/web/
+ 1827  mv 11018210058.html Desktop/UTILITY/web/
+ 1828  cd Desktop/UTILITY/web/
+ 1829  cd /home/tarun/Videos/python/
+ 1830  jupyter nbconvert --to html iris_30_11_20.ipynb  
+ 1831  jupyter nbconvert --to. pdf tarun.ipynb  
+ 1832  jupyter nbconvert --to. html tarun.ipynb  
+ 1833  jupyter nbconvert --to pdf tarun.ipynb  
+ 1834  sudo apt install canberra-gtk-module
+ 1835  jupyter nbconvert --to html tarun.ipynb  
+ 1836  warp-cli connect
+ 1837  warp-cli disconnect
+ 1838  warp-cli connect
+ 1839  node
+ 1840  warp-cli connect
+ 1841  mysql
+ 1842  sudo mysql
+ 1843  ls
+ 1844  mkdir minor_proj
+ 1845  cd minor_proj/
+ 1846  https://github.com/EshaKaushik/Video-Conferencing-App.git
+ 1847  gh repo clone EshaKaushik/Video-Conferencing-App
+ 1848  sudo apt  install gitsome 
+ 1849  gh repo clone EshaKaushik/Video-Conferencing-App
+ 1850  ls
+ 1851  cd Video-Conferencing-App-master/
+ 1852  cat readme.md 
+ 1853  cd /home/tarun/minor_proj/Video-Conferencing-App-master/
+ 1854  ls
+ 1855  npm install express.js
+ 1856  nodemon start
+ 1857  npm install debug.js
+ 1858  npm install debug
+ 1859  npm install 
+ 1860  nodemon start
+ 1861  npm install ejs
+ 1862  npm install express
+ 1863  npm install module
+ 1864  npm install nodemailer
+ 1865  npm install peer
+ 1866  npm install socket.io
+ 1867  npm install uuid
+ 1868  nodemon start
+ 1869  nodemon --version
+ 1870  nodemon start
+ 1871  sudo nodemon start
+ 1872  nodemon
+ 1873  sudo apt install nodemon
+ 1874  sudo npm i -g nodemon
+ 1875  sudo snap install --classic heroku
+ 1876  heroku login
+ 1877  ls
+ 1878  cd minor_proj/
+ 1879  ls
+ 1880  cd Video-Conferencing-App-master/
+ 1881  git init
+ 1882  heroku git:remote -a srmvideoconfrence
+ 1883  git add .
+ 1884  git commit -am "make it better"
+ 1885  git push heroku master
+ 1886  heroku git:remote -a srmvideoconfrence
+ 1887  heroku --version
+ 1888  git push heroku master
+ 1889  git push heroku HEAD:master
+ 1890  clear
+ 1891  git init
+ 1892  git remote add origin https://github.com/tksharma0907/vidoe_conference.git
+ 1893  git push -u origin main
+ 1894  git push -u origin master
+ 1895  git add .
+ 1896  git status
+ 1897  git commit
+ 1898  git commit -m "first commit"
+ 1899  git config --global user.email "you@example.com"
+ 1900  git config --global user.email "tksharma0907@gmail.com"
+ 1901  git config --global user.name "Your Name"
+ 1902  git config --global user.name "tksharma0907"
+ 1903  git commit -m "first commit"
+ 1904  git push -u origin master
+ 1905  git push -u origin main
+ 1906  git push -u origin master
+ 1907  git push -u origin master --force
+ 1908  git remote add origin https://github.com/tksharma0907/vidoe_conference.git
+ 1909  git status
+ 1910  git push -u origin master --force
+ 1911  heroku login
+ 1912  clear
+ 1913  git push heroku master
+ 1914  heroku open
+ 1915  git status 
+ 1916  git add .
+ 1917  git status 
+ 1918  git commit -m "2.0"
+ 1919  git push heroku master
+ 1920  heroku open
+ 1921  git status 
+ 1922  git add .
+ 1923  git commit -m "3.0"
+ 1924  git push heroku master
+ 1925  heroku open
+ 1926  cot readme.md 
+ 1927  cat readme.md 
+ 1928  cd public/images/
+ 1929  heroku open
+ 1930  node
+ 1931  node
+ 1932  code
+ 1933  code new.js
+ 1934  ls
+ 1935  rm new.js 
+ 1936  ls "*.js"
+ 1937  cd Documents/
+ 1938  ls "*.pdf"
+ 1939  ls *.pdf
+ 1940  clear
+ 1941  heroku --version
+ 1942  heroku open
+ 1943  ls
+ 1944  cd minor_proj/
+ 1945  ls
+ 1946  cd Video-Conferencing-App-master/
+ 1947  heroku open
+ 1948  cd ~
+ 1949  clear
+ 1950  warp-cli disconnect
+ 1951  warp-cli connect
+ 1952  code
+ 1953  git status
+ 1954  cd minor_proj/Video-Conferencing-App-master/
+ 1955  git status
+ 1956  git add .
+ 1957  git status
+ 1958  git commit -m "4.0"
+ 1959  git push heroku master
+ 1960  heroku open
+ 1961  cd ~
+ 1962  clear
+ 1963  git status
+ 1964  git add .
+ 1965  git status
+ 1966  clear
+ 1967  code
+ 1968  clear
+ 1969  cd minor_proj/Video-Conferencing-App-master/
+ 1970  git status
+ 1971  git add .
+ 1972  git status
+ 1973  git commit -m "5.0"
+ 1974  git push heroku master
+ 1975  heroku open
+ 1976  cd..
+ 1977  cd ..
+ 1978  cd Video-Conferencing-App-master/
+ 1979  git status
+ 1980  cd ..
+ 1981  ls
+ 1982  cd Video-Conferencing-App-master/
+ 1983  git status
+ 1984  ping 192.168.0.1/24
+ 1985  ping 192.168.0.104
+ 1986  ping -r 192.168.0.1/24
+ 1987  ping
+ 1988  ping -4 
+ 1989  ping -4 192.168.0.104
+ 1990  ifcofig
+ 1991  ifconfig
+ 1992  reboot
+ 1993  history > history.txt

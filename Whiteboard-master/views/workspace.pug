@@ -1,0 +1,28 @@
+doctype html
+html
+    head
+        title=title
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel='stylesheet', href='/static/css/index.css')
+        script(src="https://kit.fontawesome.com/9d18634ca5.js", crossorigin="anonymous")
+        script(src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.slim.js")
+    body
+    div.wrapper
+        div#toolbar.raised
+            button#pen.icons.raised.fas.fa-pen.fa-2x
+            button#color.icons.raised.fas.fa-sliders-h.fa-2x
+            button#plus.icons.raised.fas.fa-plus.fa-2x
+            button#minus.icons.raised.fas.fa-minus.fa-2x
+            button#eraser.icons.raised.fas.fa-eraser.fa-2x
+            button#line.icons.raised.fas.fa-arrows-alt-h.fa-2x
+            button#audio.icons.raised.fas.fa-microphone.fa-2x
+            button#delete.icons.raised.fas.fa-trash-alt.fa-2x
+        div.container
+            //- div.heading
+            //-     center 
+            //-         h1 Whiteboard
+            canvas#whiteboard
+    script(src="/static/js/whiteboard/constants.js")
+    script(src="/static/js/whiteboard/marker.js")
+    script(src="/static/js/whiteboard/whiteboard.js")
+    script(src="/static/js/index.js")

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>All In One</title>
+    <link href="https://fonts.googleapis.com/css?family=Heebo:400,700|IBM+Plex+Sans:600" rel="stylesheet">
+    <link rel="stylesheet" href="dist/css/style.css">
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+    <style>    
+        * {    
+          box-sizing: border-box;    
+        }  
+        
+        #subject{
+          background-color:rgb(179, 181, 185);          
+        }
+            
+        input[type=text], select, textarea {    
+          width: 100%;    
+          padding: 0px;    
+          border: 1px solid rgb(70, 68, 68);    
+          border-radius: 4px;    
+          resize: vertical;    
+        }    
+        input[type=email], select, textarea {    
+          width: 100%;    
+          padding: 12px;    
+          border: 1px solid rgb(70, 68, 68);    
+          border-radius: 4px;    
+          resize: vertical;    
+        }    
+            
+        label {    
+          padding: 12px 12px 12px 0;    
+          display: inline-block;    
+        }    
+            
+        input[type=submit] {    
+          background-color: rgb(37, 116, 161);    
+          color: white;    
+          padding: 12px 20px;    
+          border: none;    
+          border-radius: 4px;    
+          cursor: pointer;    
+          float: right;    
+        }    
+            
+        input[type=submit]:hover {    
+          background-color: #45a049;    
+        }    
+            
+        .container1 {    
+          border-radius: 5px;    
+          background-color: rgb(219, 215, 215);    
+          padding: 15px;    
+        }    
+            
+        .col-25 {    
+          float: left;    
+          width: 25%;    
+          margin-top: 6px;    
+        }    
+            
+        .col-75 {    
+          float: left;    
+          width: 75%;    
+          margin-top: 6px;    
+        } 
+        .col-75-1 {    
+          float: left;    
+          width: 100%;    
+          margin-top: 6px;    
+        }  
+            
+        /* Clear floats after the columns */    
+        .row:after {    
+          content: "";    
+          display: table;    
+          clear: both;    
+        }  
+        h2{
+            text-align:center;
+        } 
+        </style> 
+</head>
+<body class="is-boxed has-animations">   
+    <div class="body-wrap boxed-container">       
+        <main>            
+        <section class="cta section">
+          <div class="container-sm">
+              <div class="cta-inner section-inner">
+                  <div class="cta-header text-center">
+                      <h2 class="section-title mt-0">Feedback Form</h2>
+                      <p class="section-paragraph">Won't take a minute</p>
+                      <input id="lights-toggle" type="checkbox" name="lights-toggle" class="switch" >
+                      <div class="container1">    
+                          <form>                                                    
+                            <div class="row">                                           
+                              <div class="col-75-1">    
+                                <textarea id="subject" name="subject" placeholder="We value your suggestions...." style="height:200px"></textarea>    
+                              </div>    
+                            </div>  
+                          </form>  
+                       </div>  
+                        <br>                              
+                      <div class="cta-cta">
+                        <a class="button button-primary" href="mailto:eshakaushik2001@gmail.com" >Submit</a>
+                      </div>
+                  </div>
+              </div>
+            </div>
+        </section>
+      </main>
+    </div>
+    <script src="dist/js/main.min.js"></script>
+  </body>
+</html>
+
